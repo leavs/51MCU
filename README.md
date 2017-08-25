@@ -1,5 +1,5 @@
 # 51MCU
-Programs for 51MCU.
+Programs for 51MCU. Use Keil2
 
 ## 51_MCU_For_AOLI_Bluetooth
 Use this program, you can control AOLI over bluetooth by Android.
